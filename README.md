@@ -1,2 +1,6 @@
 # bob-plugin-aiset-translator
-基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，Licensed under CC BY-NC-SA 4.0
+致力于做一个 AISet
+
+#感谢
+感谢[ripperhe](https://github.com/ripperhe)提供的平台，瑞思拜！
+感谢[openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)
