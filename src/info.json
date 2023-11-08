@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "category": "translate",
   "name": "AISet Translator",
-  "summary": "GPT powered translator",
+  "summary": "All-in-one AI translator",
   "icon": "",
-  "author": "yetone <yetoneful@gmail.com>",
-  "homepage": "https://github.com/yetone/bob-plugin-openai-translator",
-  "appcast": "https://raw.githubusercontent.com/yetone/bob-plugin-openai-translator/main/appcast.json",
+  "author": "byron <w_byron@outlook.com>",
+  "homepage": "https://github.com/qaz5391450/bob-plugin-aiset-translator",
+  "appcast": "https://github.com/qaz5391450/bob-plugin-aiset-translator/blob/master/appcast.json",
   "minBobVersion": "1.8.0",
   "options": [
     {
