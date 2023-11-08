@@ -1,6 +1,6 @@
 {
   "identifier": "byron.aiset.translator",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "category": "translate",
   "name": "AISet Translator",
   "summary": "All-in-one AI translator",
@@ -90,6 +90,14 @@
         {
           "title": "gpt-4-32k-0613",
           "value": "gpt-4-32k-0613"
+        },
+        {
+          "title": "gpt-4-1106-preview",
+          "value": "gpt-4-1106-preview"
+        },
+        {
+          "title": "gpt-4-vision-preview",
+          "value": "gpt-4-vision-preview"
         },
         {
           "title": "text-davinci-003",

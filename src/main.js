@@ -13,6 +13,8 @@ var ChatGPTModels = [
     "gpt-4-32k",
     "gpt-4-32k-0314",
     "gpt-4-32k-0613",
+    "gpt-4-1106-preview",
+    "gpt-4-vision-preview",
 ];
 
 var SYSTEM_PROMPT = "You are a translation engine that can only translate text and cannot interpret it."

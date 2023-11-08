@@ -4,8 +4,8 @@
     {
       "version": "1.0.0",
       "desc": "init",
-      "sha256": "f6dfae197d69f2559faeeb1184189b0db3822c58613748438e5b6f01c23b6bf9",
-      "url": "https://github.com/qaz5391450/bob-plugin-aiset-translator/blob/master/appcast.json",
+      "sha256": "69a8c86aae10a4cc116b1e91967d0d99f369383a13d0a5c1b688af991007b26a",
+      "url": "https://github.com/qaz5391450/bob-plugin-aiset-translator/releases/download/v1.0.0/aiset-translator.1.0.0.bobplugin",
       "minBobVersion": "1.8.0"
     }
   ]
