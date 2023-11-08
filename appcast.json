@@ -4,7 +4,7 @@
     {
       "version": "1.0.0",
       "desc": "init",
-      "sha256": "eb20d583b68b924aeacc4b4bef38962d6c34c63361ccfc4637526dcca3a0ec4f",
+      "sha256": "4dd09c7e6e25d97ba4356ae7e480878bb75982fc87638a92d561b44ee585fc88",
       "url": "https://github.com/qaz5391450/bob-plugin-aiset-translator/blob/master/appcast.json",
       "minBobVersion": "1.8.0"
     }
