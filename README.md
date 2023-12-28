@@ -3,7 +3,7 @@
 
 
 ## 请作者喝杯可乐  
-![image](image/weixin.jpg)
+![image](image/weixin.jpg)  
 ![image](image/zhifubao.jpg)  
 
 # 感谢 
