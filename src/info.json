@@ -1,6 +1,6 @@
 {
   "identifier": "byron.aiset.translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "translate",
   "name": "AISet Translator",
   "summary": "All-in-one AI translator",
@@ -22,15 +22,6 @@
       }
     },
     {
-      "identifier": "deploymentName",
-      "type": "text",
-      "title": "Dep. Name",
-      "desc": "可选项。此值为在部署模型时为部署选择的自定义名称，可在 Azure 门户中的 “资源管理“＞“部署“下查看",
-      "textConfig": {
-        "type": "visible"
-      }
-    },
-    {
       "identifier": "apiKeys",
       "type": "text",
       "title": "API KEY",
@@ -44,14 +35,21 @@
     {
       "identifier": "model",
       "type": "menu",
-      "title": "模型",
-      "defaultValue": "gpt-3.5-turbo",
+      "title": "模型列表",
+      "defaultValue": "gpt-3.5-turbo-1106",
       "menuValues": [
         {
-          "title": "gpt-3.5-turbo-1106",
+          "title": "自定义模型",
+          "value": "custom"
+        },
+        {
+          "title": "gpt-3.5-turbo-1106(推荐)",
           "value": "gpt-3.5-turbo-1106"
         },
         {
+          "title": "gpt-3.5-turbo-16k-0613",
+          "value": "gpt-3.5-turbo-16k-0613"
+        },        {
           "title": "gpt-3.5-turbo-0613",
           "value": "gpt-3.5-turbo-0613"
         },
@@ -92,7 +90,7 @@
           "value": "gpt-4-32k-0613"
         },
         {
-          "title": "gpt-4-1106-preview",
+          "title": "gpt-4-1106-preview(推荐)",
           "value": "gpt-4-1106-preview"
         },
         {
@@ -100,14 +98,24 @@
           "value": "gpt-4-vision-preview"
         },
         {
-          "title": "text-davinci-003",
-          "value": "text-davinci-003"
+          "title": "gpt-4-all",
+          "value": "gpt-4-all"
         },
         {
-          "title": "text-davinci-002",
-          "value": "text-davinci-002"
+          "title": "gemini-pro(Google)",
+          "value": "gemini-pro"
         }
       ]
+    },
+    {
+      "identifier": "customModel",
+      "type": "text",
+      "title": "自定义模型",
+      "desc": "可选项。当 模型 选择为 自定义模型 时，此项为必填项。请 手动填写 有效的模型名称",
+      "textConfig": {
+        "type": "visible",
+        "placeholderText": "gpt-3.5-turbo"
+      }
     },
     {
       "identifier": "customSystemPrompt",
