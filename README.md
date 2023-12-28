@@ -1,7 +1,10 @@
 # bob-plugin-aiset-translator
 致力于做一个 AISet
 
-
+  
+  
+  
+  
 ## 请作者喝杯可乐  
 ![image](image/weixin.jpg) 
 ![image](image/zhifubao.jpg)  
