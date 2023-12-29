@@ -5,8 +5,9 @@
       "version": "1.0.1",
       "desc": "新增自定义模型和验证",
       "sha256": "cfcdd7388d40cb7200effb22639d8d6d84ecca530db0b97a1fd0ad2504b2068d",
-      "url": "https://github.com/qaz5391450/bob-plugin-aiset-translator/releases/download/v1.0.0/aiset-translator.1.0.0.bobplugin",
+      "url": "https://github.com/qaz5391450/bob-plugin-aiset-translator/releases/download/v1.0.1/bob-plugin-aiset-translator.v1.0.1.bobplugin",
       "minBobVersion": "1.8.0"
+      
     },{
       "version": "1.0.0",
       "desc": "init",
