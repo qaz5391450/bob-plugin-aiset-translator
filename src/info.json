@@ -7,7 +7,7 @@
   "icon": "",
   "author": "byron <w_byron@outlook.com>",
   "homepage": "https://github.com/qaz5391450/bob-plugin-aiset-translator",
-  "appcast": "https://raw.githubusercontent.com/qaz5391450/bob-plugin-aiset-translator/master/appcast.json",
+  "appcast": "https://github.com/qaz5391450/bob-plugin-aiset-translator/raw/master/appcast.json",
   "minBobVersion": "1.8.0",
   "options": [
     {
